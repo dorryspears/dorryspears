@@ -5,5 +5,6 @@
 - [My Site](https://www.ryanspears.dev/) 🌐
 - I specialize with Rust 🦀, Python 🐍, Javascript, C# .NET, SQL, CI/CD.
 
-####Starting a dev tools company 🤫
+#### Starting a dev tools company 🤫
+
 It is called [Cauto](https://www.cauto.dev)
