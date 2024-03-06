@@ -11,4 +11,4 @@
 
 It is called [Cauto](https://www.cauto.dev)
 
-![dorryspears's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorryspears&theme=tokyonight&hide_border=false)
+![dorryspears's Streak](![dorryspears's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorryspears&theme=nightowl&hide_border=true))
