@@ -10,6 +10,3 @@
 - 10x ?
 
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
-
-
-![dorryspears's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dorryspears&theme=nightowl&hide_border=true)
